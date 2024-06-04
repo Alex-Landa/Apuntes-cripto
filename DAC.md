@@ -1,0 +1,1 @@
+El "Control de Acceso Discrecional ", se basa en dar los permisos directamente al usuario en cuestión
