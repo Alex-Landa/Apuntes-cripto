@@ -6,6 +6,8 @@
 	1)  Ley de Moore
 	2)  Problema de la llave
 
+
+[[Modos de operacion]]
 [[DES]]
 
 [[diffie-helman.pdf]]
