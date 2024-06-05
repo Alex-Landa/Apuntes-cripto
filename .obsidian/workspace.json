@@ -47,8 +47,12 @@
             "id": "5c4604f39f9c35ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CFB.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -142,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CFB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CFB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CFB.md"
+              }
             }
           }
         ]
@@ -200,12 +208,13 @@
   },
   "active": "5c4604f39f9c35ca",
   "lastOpenFiles": [
+    "ECB.md",
+    "CFB.md",
+    "Mundo Simétrico.md",
     "OFB.md",
     "CBC.md",
-    "ECB.md",
     "Modos de operacion.md",
     "Que es Seguridad (clase 1).md",
-    "Mundo Simétrico.md",
     "Criptografía.md",
     "Contexto mundial (Clase 0).md",
     "(Clase 3).md",
@@ -231,7 +240,6 @@
     "PDF",
     "Assets/Modelo.png",
     "Assets",
-    "Modelo.png.md",
     "Activo"
   ]
 }
