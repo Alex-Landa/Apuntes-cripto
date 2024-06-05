@@ -20,31 +20,55 @@
             }
           },
           {
-            "id": "cc07ceb3edc3b560",
+            "id": "83680fd7daaf8622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criptografía.md",
+                "file": "OFB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96d54992002104e8",
+            "id": "c974647f4d92c809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mundo Simétrico.md",
+                "file": "CTR.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c4604f39f9c35ca",
+            "id": "e5650da4dfa1ae8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modos de operación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6afe3f55b7306e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos de control de Acceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e9bce33d8fd827d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,33 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4a9ca4723efbe0df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Que es Seguridad (clase 1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3708b266a8ed7a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CFB.md",
+                "file": "CTR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CFB.md",
+                "file": "CTR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CFB.md"
+                "file": "CTR.md"
               }
             }
           }
@@ -206,18 +206,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c4604f39f9c35ca",
+  "active": "c974647f4d92c809",
   "lastOpenFiles": [
-    "ECB.md",
-    "CFB.md",
-    "Mundo Simétrico.md",
     "OFB.md",
-    "CBC.md",
-    "Modos de operacion.md",
-    "Que es Seguridad (clase 1).md",
-    "Criptografía.md",
-    "Contexto mundial (Clase 0).md",
+    "CTR.md",
+    "CFB.md",
+    "Algoritmos de control de Acceso.md",
     "(Clase 3).md",
+    "Assets/CTR.png",
+    "Modos de operación.md",
+    "Assets/CBC.png",
+    "Assets/CFB.png",
+    "Flujo.md",
+    "Assets/CFBpng.png",
+    "Assets/OFB.png",
+    "Mundo Simétrico.md",
+    "ECB.md",
+    "CBC.md",
+    "Criptografía.md",
+    "DES.md",
+    "Assets/ECB.png",
+    "Assets/CBCpng.png",
+    "Que es Seguridad (clase 1).md",
+    "Contexto mundial (Clase 0).md",
     "Autenticación.md",
     "Mundo Asimétrico.md",
     "Criptografía Clásica.md",
@@ -227,15 +238,10 @@
     "Protocolo.md",
     "RBAC.md",
     "PDF/diffie-helman.pdf",
-    "Algoritmos de control de Acceso.md",
-    "DES.md",
     "Clase 4.md",
     "Certificado digital.md",
     "firma digital.md",
     "HMAC.md",
-    "HASH.md",
-    "huella digital.md",
-    "DAC.md",
     "Untitled.canvas",
     "PDF",
     "Assets/Modelo.png",

@@ -1,4 +1,5 @@
 El *"Cipher Block Chain"*  es la evolución del [[ECB]], este es de modo *"por bloques"*  o *"asíncrono"*
+![[CBCpng.png]]
 
 $$
 C_0=IV
@@ -11,4 +12,4 @@ $$
 
 **Debilidades**
 	1)Es *"lento"*
-	2)
+	2) No es paralelizable

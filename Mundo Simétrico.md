@@ -7,7 +7,7 @@
 	2)  Problema de la llave
 
 
-[[Modos de operacion]]
+[[Modos de operación]]
 [[DES]]
 
 [[diffie-helman.pdf]]
