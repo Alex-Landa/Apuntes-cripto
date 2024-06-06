@@ -1,4 +1,4 @@
-La autenticación es *"demostrar que eres quien dices ser"* , para esto se puede lograr de varias maneras
+La autenticación es *"demostrar que eres quien dices ser"* , para esto hay varias clasificaciones
 **Por el Autenticador**:
 	Factores de autenticación
 		1)**Algo que se sabe**:

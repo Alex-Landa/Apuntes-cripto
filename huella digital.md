@@ -1,0 +1,1 @@
+es el conjunto de bits "unico" para cada "M"

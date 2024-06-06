@@ -1,4 +1,4 @@
-El ***"Cipher Feed Back"*** es un modo de operación por *[[flujo]]* o *"sincrono"*
+El ***"Cipher Feed Back"*** es un modo de operación por *[[flujo]]* 
 
 ![[CFB.png]]
 

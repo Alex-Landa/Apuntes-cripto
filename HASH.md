@@ -1,4 +1,4 @@
-Usado para la [[huella digital]], [[HMAC]], y verificación de integridad, no requiere de ninguna llave (secreto),este trabaja con los bits del mensaje a **Transformar**.
+Usado para la [[huella digital]], [[MAC]], y verificación de integridad, no requiere de ninguna llave (secreto),este trabaja con los bits del mensaje a **Transformar**.
 
 **Propiedades Del HASH**
 	1) trabaja con los bits del mensaje
@@ -8,3 +8,11 @@ Usado para la [[huella digital]], [[HMAC]], y verificación de integridad, no re
 
 **Debilidades**
 	1) si se encuentra una colisión, el algoritmo de transformación ya no sirve  
+
+Estas colisiones se pueden generar rebasando el universo de la salida de la función hash
+
+***EJEMPLO:***
+si se tiene SHA 256
+$$
+2^{256}=1.157920892×10^{77}
+$$

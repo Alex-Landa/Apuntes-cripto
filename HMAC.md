@@ -1,1 +1,0 @@
-Es el *"Hash based Message Auth Code"* , proporciona MIC *(código de integridad)* y MAC *(código de Autenticación)* 

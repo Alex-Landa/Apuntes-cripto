@@ -1,1 +1,4 @@
-EL *"Data Encryption Standard"*
+EL *"Data Encryption Standard"* 16 rondas
+
+
+[[AES]]

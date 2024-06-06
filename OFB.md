@@ -1,4 +1,4 @@
-El *"Output Feed Back"* es del modo *"[[Flujo]]"* o *"sincrónico"*, es rápido a la hora de hacer el cifrado
+El *"Output Feed Back"* es del modo *"[[Flujo]]"*, es rápido a la hora de hacer el cifrado
 ![[OFB.png]]
 $$
 G_0=E_k(VI)
@@ -14,5 +14,5 @@ $$1 \leq m \leq G_i $$
 	1) Es rápido
 	2) semi paralelizable
 
-**"Debilidades**
+**"Debilidades"**
 	1)Es menos seguro que el [[CFB]]

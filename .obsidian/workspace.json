@@ -8,79 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "918044ad2516cc85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "83680fd7daaf8622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OFB.md",
+                "file": "Mundo Simétrico.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c974647f4d92c809",
+            "id": "c884373ed18e1d02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTR.md",
+                "file": "GCT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5650da4dfa1ae8f",
+            "id": "ec6fba8197c8dbd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modos de operación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6afe3f55b7306e92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos de control de Acceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9bce33d8fd827d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CFB.md",
+                "file": "huella digital.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 244.5
   },
   "right": {
     "id": "6a0a8237f4ae8ffc",
@@ -146,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTR.md",
+                "file": "GCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTR.md",
+                "file": "GCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTR.md"
+                "file": "GCT.md"
               }
             }
           }
@@ -198,50 +162,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c974647f4d92c809",
+  "active": "c884373ed18e1d02",
   "lastOpenFiles": [
-    "OFB.md",
-    "CTR.md",
-    "CFB.md",
-    "Algoritmos de control de Acceso.md",
-    "(Clase 3).md",
-    "Assets/CTR.png",
+    "Contexto mundial (Clase 0).md",
+    "GCT.md",
     "Modos de operación.md",
-    "Assets/CBC.png",
-    "Assets/CFB.png",
-    "Flujo.md",
-    "Assets/CFBpng.png",
-    "Assets/OFB.png",
-    "Mundo Simétrico.md",
-    "ECB.md",
-    "CBC.md",
-    "Criptografía.md",
+    "OFB.md",
+    "MAC.md",
     "DES.md",
+    "Mundo Simétrico.md",
+    "PDF/diffie-helman.pdf",
+    "AES.md",
+    "huella digital.md",
+    "Los deseos de la seguridad (clase 2).md",
+    "HASH.md",
+    "CFB.md",
+    "Flujo.md",
+    "Que es Seguridad (clase 1).md",
+    "PDF/ISO 7498-2.pdf",
+    "ECB.md",
+    "Autenticación.md",
+    "Criptología.md",
+    "CBC.md",
+    "CBCpng.png.md",
+    "Criptografía.md",
+    "Criptografía Clásica.md",
+    "CTR.md",
+    "Assets/OFB.png",
+    "Assets/CTR.png",
+    "Assets/CFB.png",
+    "Assets/CBC.png",
     "Assets/ECB.png",
     "Assets/CBCpng.png",
-    "Que es Seguridad (clase 1).md",
-    "Contexto mundial (Clase 0).md",
-    "Autenticación.md",
+    "(Clase 3).md",
     "Mundo Asimétrico.md",
-    "Criptografía Clásica.md",
     "Riesgo.md",
-    "PDF/ISO 7498-2.pdf",
-    "Los deseos de la seguridad (clase 2).md",
     "Protocolo.md",
-    "RBAC.md",
-    "PDF/diffie-helman.pdf",
-    "Clase 4.md",
-    "Certificado digital.md",
-    "firma digital.md",
-    "HMAC.md",
     "Untitled.canvas",
     "PDF",
     "Assets/Modelo.png",
