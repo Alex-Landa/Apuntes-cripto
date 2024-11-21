@@ -1,6 +1,6 @@
 
 **Propiedades**
-	1) Rápido Cifrado
+	1) Computacionalmente eficiente
 	2) Autenticación débil
 **Debilidades**
 	1)  Ley de Moore

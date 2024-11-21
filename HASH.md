@@ -1,4 +1,4 @@
-Usado para la [[huella digital]], [[MAC]], y verificación de integridad, no requiere de ninguna llave (secreto),este trabaja con los bits del mensaje a **Transformar**.
+Usado para la [[huella digital]], y verificación de integridad, no requiere de ninguna llave (secreto),este trabaja con los bits del mensaje a **Transformar**. 
 
 **Propiedades Del HASH**
 	1) trabaja con los bits del mensaje

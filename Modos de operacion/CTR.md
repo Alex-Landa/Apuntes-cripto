@@ -6,7 +6,5 @@ $$
 Donde:
 	"Cont" es una cadena pseudo aleatoria de tamaño que *"E"* usa e incrementa como *"Cont++"*
 	"m" es un subconjunto de "M"	
-**Fortalezas**
-	1) es totalmente paralelizable
 **Debilidades**
 	1) *"Cont"* puede ser descubierto por **fuerza bruta** 

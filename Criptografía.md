@@ -1,7 +1,4 @@
-**Modo de Proceso**
-	
-**Tipo de operación**
-
+La criptogra
 **Por Llaves**
 	0 Llaves = [[HASH]]
 	1 Llaves = [[Mundo Simétrico]]

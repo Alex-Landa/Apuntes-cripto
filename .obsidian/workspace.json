@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECB.md",
+                "file": "Modos de operacion/ECB.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,34 +32,12 @@
             }
           },
           {
-            "id": "c974647f4d92c809",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "76685240c925d553",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CTR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5650da4dfa1ae8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modos de operación.md",
-                "mode": "source",
-                "source": false
+                "file": "PDF/diffie-helman.pdf"
               }
             }
           },
@@ -69,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos de control de Acceso.md",
+                "file": "HASH.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,14 +59,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CFB.md",
+                "file": "Criptografía.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f99bd9bb7803b56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASH.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTR.md",
+                "file": "Criptografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTR.md",
+                "file": "Criptografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTR.md"
+                "file": "Criptografía.md"
               }
             }
           }
@@ -214,43 +204,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76685240c925d553",
+  "active": "4e9bce33d8fd827d",
   "lastOpenFiles": [
-    "GCT.md",
-    "Assets/GCM.png",
-    "CTR.md",
-    "MAC.md",
-    "Criptología.md",
-    "AES.md",
+    "HASH.md",
+    "PDF/diffie-helman.pdf",
     "OFB.md",
-    "CFB.md",
+    "Mundo Simétrico.md",
+    "Mundo Asimétrico.md",
+    "Clase 4.md",
     "Algoritmos de control de Acceso.md",
+    "DES.md",
+    "Modos de operación.md",
+    "Los deseos de la seguridad (clase 2).md",
+    "huella digital.md",
+    "Certificado digital.md",
+    "Autenticación.md",
+    "Modos de operacion",
+    "HMAC.md",
+    "Control de acceso/DAC.md",
+    "Control de acceso",
+    "Modos de operacion/CTR.md",
+    "Modos de operacion/ECB.md",
+    "Criptografía.md",
+    "Modos de operacion/CBC.md",
+    "Modos de operacion/CFB.md",
+    "AES.md",
+    "PDF/ISO 7498-2.pdf",
+    "Modos de operacion/GCT.md",
+    "Assets/GCM.png",
+    "Criptología.md",
     "(Clase 3).md",
     "Assets/CTR.png",
-    "Modos de operación.md",
     "Assets/CBC.png",
     "Assets/CFB.png",
     "Flujo.md",
     "Assets/CFBpng.png",
     "Assets/OFB.png",
-    "Mundo Simétrico.md",
-    "ECB.md",
-    "CBC.md",
-    "Criptografía.md",
-    "DES.md",
     "Assets/ECB.png",
     "Assets/CBCpng.png",
     "Que es Seguridad (clase 1).md",
-    "Contexto mundial (Clase 0).md",
-    "Autenticación.md",
-    "Mundo Asimétrico.md",
-    "Criptografía Clásica.md",
-    "Riesgo.md",
-    "PDF/ISO 7498-2.pdf",
-    "Los deseos de la seguridad (clase 2).md",
-    "Protocolo.md",
-    "RBAC.md",
-    "PDF/diffie-helman.pdf",
     "Untitled.canvas",
     "PDF",
     "Assets/Modelo.png",

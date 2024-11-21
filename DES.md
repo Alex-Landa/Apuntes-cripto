@@ -1,4 +1,4 @@
-EL *"Data Encryption Standard"* 16 rondas
+EL *"Data Encryption Standard"*, se basa en el algoritmo de feistel 16 rondas
 
 
 [[AES]]

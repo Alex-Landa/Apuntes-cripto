@@ -14,3 +14,5 @@ $$
 	1)Es *"lento"*
 	2) No es paralelizable
 	3) si C sufre cambios, el descifrado se puede arruinar
+ 
+ ** se puede usar para la verificación de integridad  

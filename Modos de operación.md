@@ -1,8 +1,7 @@
-Los modos de operación son complementos a los algoritmos de cifrado, por si solos no son confiables, tienen que hacer uso de un algoritmo de cifrado como [[DES]], 3-DES o [[AES]]
+Los modos de operación son una manera de usar los algoritmos **por bloque** del mundo simétrico, ya que si bien hay algoritmos que por naturaleza son de flujo, no podemos hacer que estos se comporten como de bloque
 **Por bloque**
 - [[ECB]]
 - [[CBC]]
-- [[GCT]]
 **Por flujo de datos**
 - [[OFB]]
 - [[CFB]]

@@ -1,1 +1,1 @@
-No sirve para uno mismo,
+El certificado digital sirve para la autenticación 
