@@ -1,3 +1,1 @@
-Serie de acciones tendientes a resolver una tarea especifica
-
-forma de usar los algoritmos para implementar servicios de seguridad
+Los protocolos son los pasos a seguir para implementar [[Los deseos de la seguridad]], es la unión de los [[Mecanismos]] con los servicios y por ende, la parte a la que si se desea atacar, donde es mas probable lograrlo 

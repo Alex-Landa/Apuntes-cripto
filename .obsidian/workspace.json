@@ -8,77 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "918044ad2516cc85",
+            "id": "d3e2285c7f1efce6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modos de operacion/ECB.md",
+                "file": "Mundo Asimétrico (D-H).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Mundo Asimétrico (D-H)"
             }
           },
           {
-            "id": "83680fd7daaf8622",
+            "id": "41f9739ee82338c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OFB.md",
+                "file": "Certificado digital.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Certificado digital"
             }
           },
           {
-            "id": "76685240c925d553",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/diffie-helman.pdf"
-              }
-            }
-          },
-          {
-            "id": "6afe3f55b7306e92",
+            "id": "6eda9ac755c0a360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASH.md",
+                "file": "Protocolo.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9bce33d8fd827d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Criptografía.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f99bd9bb7803b56c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASH.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Protocolo"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -113,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -121,10 +97,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -144,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Criptografía.md",
+                "file": "Protocolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Protocolo"
             }
           },
           {
@@ -161,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Criptografía.md",
+                "file": "firma digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from firma digital"
             }
           },
           {
@@ -175,7 +158,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -184,8 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Criptografía.md"
-              }
+                "file": "firma digital.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of firma digital"
             }
           }
         ]
@@ -204,45 +191,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e9bce33d8fd827d",
+  "active": "e70992654e070518",
   "lastOpenFiles": [
     "HASH.md",
-    "PDF/diffie-helman.pdf",
-    "OFB.md",
+    "Certificado digital.md",
+    "Mundo Asimétrico (D-H).md",
+    "firma digital.md",
+    "huella digital.md",
+    "Algoritmos/DES.md",
     "Mundo Simétrico.md",
-    "Mundo Asimétrico.md",
+    "Autenticación.md",
+    "PDF/diffie-helman.pdf",
+    "Assets/DES_1.png",
+    "Algoritmos",
+    "Modos de operacion/OFB.md",
+    "Modos de operacion/GCT.md",
+    "MIC-MAC.md",
+    "Los deseos de la seguridad.md",
+    "(Clase 3).md",
+    "Mecanismos.md",
+    "Protocolo.md",
+    "Contexto mundial.md",
+    "Que es Seguridad.md",
+    "Criptografía.md",
     "Clase 4.md",
     "Algoritmos de control de Acceso.md",
-    "DES.md",
     "Modos de operación.md",
-    "Los deseos de la seguridad (clase 2).md",
-    "huella digital.md",
-    "Certificado digital.md",
-    "Autenticación.md",
     "Modos de operacion",
-    "HMAC.md",
     "Control de acceso/DAC.md",
     "Control de acceso",
     "Modos de operacion/CTR.md",
     "Modos de operacion/ECB.md",
-    "Criptografía.md",
     "Modos de operacion/CBC.md",
-    "Modos de operacion/CFB.md",
-    "AES.md",
     "PDF/ISO 7498-2.pdf",
-    "Modos de operacion/GCT.md",
     "Assets/GCM.png",
-    "Criptología.md",
-    "(Clase 3).md",
     "Assets/CTR.png",
     "Assets/CBC.png",
     "Assets/CFB.png",
-    "Flujo.md",
     "Assets/CFBpng.png",
     "Assets/OFB.png",
     "Assets/ECB.png",
     "Assets/CBCpng.png",
-    "Que es Seguridad (clase 1).md",
     "Untitled.canvas",
     "PDF",
     "Assets/Modelo.png",

@@ -25,4 +25,4 @@ Comprometer:
 	posibilidad de causar perdida o daño
 
 
-[[Los deseos de la seguridad (clase 2)]]
+[[Los deseos de la seguridad]]

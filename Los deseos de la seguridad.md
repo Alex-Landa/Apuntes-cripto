@@ -20,7 +20,4 @@ se asume que:
 ¿Qué deseos no se pueden garantizar?
 	1) Disponibilidad
 
-
-Estos servicios son referenciados en la [[ISO 7498-2.pdf]]
-
-[[(Clase 3)]]
+Estos deseos son cosas que si pueden ser ofrecidos por la Seguridad informática y son conocidos como *"servicios"*, mismos que son descritos en la [[ISO 7498-2.pdf]]

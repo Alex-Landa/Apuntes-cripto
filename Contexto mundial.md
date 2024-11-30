@@ -6,8 +6,6 @@ A raíz de esto, surgen otras preguntas:
 	1- ¿A cuantos afectan? 
 	2- ¿Qué pasa con los que son afectados?
 ----------------------------------------------------------------------------------------
-- 2024 
-
 o ¿Cuántos habitantes hay en el mundo?
 - +8 mil millones de personas
 o De estos habitantes, ¿cuántos tienen acceso a internet?
@@ -38,5 +36,6 @@ educación?
 o Según la OCDE, ¿cuáles son los países con el mejor nivel
 educativo?
 o Según la OCDE, ¿cuáles son los países con el peor nivel educativo?
-[[Que es Seguridad (clase 1)]]
+
+entonces, ¿ [[Que es Seguridad]]?
 
